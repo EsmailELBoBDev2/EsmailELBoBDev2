@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: [**nothing**](#)
 - 🌱 I’m currently learning: [**Open Source Software Development, Linux and Git**](https://www.coursera.org/specializations/oss-development-linux-git) (*Also some other stuff like Full stack developer, Django and linux bash commands*)
 - 📫 How to reach me: [**Through my website**](https://esmailelbobdev2.github.io/)
-- ⚡ Fun fact: **Don't see** [**this commit**](https://github.com/EsmailELBoBDev2/EsmailELBoBDev2/blob/c77818aeaf076f9fd8de6ca9c7a92e5cd28a32d5/README.md)**, lol**
+- ⚡ Fun fact: I love computers more than people
 
 
 <!--
