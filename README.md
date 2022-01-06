@@ -1,4 +1,3 @@
-# Hi there 👋
 <h1 align="center">I'm Esmail EL BoB</h1>
 <p style="text-align: center;" align="center"><i>and I'm a computer nerd...</i></p>
 <p style="text-align: center;" align="center">Everything you need to know, head to: <a href="https://esmailelbob.xyz">esmailelbob.xyz</a></p>
