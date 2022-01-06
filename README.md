@@ -1,22 +1,15 @@
-### Hi there 👋
+# Hi there 👋
+<h1 align="center">I'm Esmail EL BoB</h1>
+<p style="text-align: center;" align="center"><i>and I'm a computer nerd...</i></p>
+<p style="text-align: center;" align="center">Everything you need to know, head to: <a href="https://esmailelbob.xyz">esmailelbob.xyz</a></p>
 
-- 🔭 I’m currently working on: [**nothing**](#)
-- 🌱 I’m currently learning: [**Open Source Software Development, Linux and Git**](https://www.coursera.org/specializations/oss-development-linux-git) (*Also some other stuff like Full stack developer, Django and linux bash commands*)
-- 📫 How to reach me: [**Through my website**](https://esmailelbobdev2.github.io/)
-- ⚡ Fun fact: I love computers more than people
+---
+## 💻 GitHub Stats:
+|       |       |
+| ----------- | ----------- |
+| ![EsmailELBoBDev2's GitHub stats](https://github-readme-stats.vercel.app/api/?username=EsmailELBoBDev2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)      | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsmailELBoBDev2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)       |
+| ![EsmailELBoBDev2's Profile views](https://komarev.com/ghpvc/?username=EsmailELBoBDev2&style=flat-square) |  |
 
 
-<!--
-**EsmailELBoBDev2/EsmailELBoBDev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
